@@ -51,3 +51,5 @@ Settings -> Applicatons -> bomb2048 -> permissions -> External storage
 
 При перезапуске программы будет загружено состояние, которое было при закрытии, 
 поэтому, чтобы увидеть изменения в уровне необходимо нажать рестарт.
+
+https://drive.google.com/open?id=15ci2rbkxN0JSa0hJrr14GCtjMChpxEJx
