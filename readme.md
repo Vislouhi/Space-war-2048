@@ -53,3 +53,5 @@ Settings -> Applicatons -> bomb2048 -> permissions -> External storage
 поэтому, чтобы увидеть изменения в уровне необходимо нажать рестарт.
 
 https://drive.google.com/open?id=15ci2rbkxN0JSa0hJrr14GCtjMChpxEJx
+
+https://drive.google.com/open?id=1lt1FLzDQykAwb9-f6fVwp7XzfyqFAMQF
